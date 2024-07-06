@@ -15,3 +15,10 @@ echo ". /etc/bash_completion" >> ~/.bashrc
 ```bash
 . ~/.bashrc
 ```
+
+```bash
+git config --global user.name "wasabina67" && \
+git config --global user.email "wasabina67@gmail.com" && \
+git config --global init.defaultBranch "main" && \
+git config --global core.editor "vim"
+```
