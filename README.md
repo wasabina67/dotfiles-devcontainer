@@ -16,6 +16,8 @@ echo ". /etc/bash_completion" >> ~/.bashrc
 . ~/.bashrc
 ```
 
+### git global settings
+
 ```bash
 git config --global user.name "wasabina67" && \
 git config --global user.email "wasabina67@gmail.com" && \
