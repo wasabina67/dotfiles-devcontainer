@@ -1,4 +1,5 @@
 alias gs='git status'
+alias gss='git status --short'
 alias gb='git branch'
 
 alias gitstatus='git status'
@@ -10,3 +11,9 @@ alias gitdiffc='git diff --cached'
 
 alias cls='clear'
 alias rm='rm -i'
+
+alias p='pushd'
+alias o='popd'
+alias d='dirs -v'
+
+alias j='jobs -l'
