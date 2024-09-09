@@ -3,6 +3,8 @@ Dotfiles for Devcontainer
 
 ## Setup
 
+### Debian
+
 ```bash
 curl -sSL https://raw.githubusercontent.com/wasabina67/dotfiles-devcontainer/main/setup.sh | bash
 ```
