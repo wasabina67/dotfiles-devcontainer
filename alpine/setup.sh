@@ -1,7 +1,7 @@
 #!/bin/bash
 
-apt-get update && \
-    apt-get install -y \
+apk update && \
+    apk add --no-cache \
         bash-completion \
         git \
         less \
