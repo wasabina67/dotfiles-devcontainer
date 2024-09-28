@@ -32,6 +32,15 @@ apk add --no-cache curl
 curl -sSL https://raw.githubusercontent.com/wasabina67/dotfiles-devcontainer/main/alpine/setup.sh | bash
 ```
 
+```bash
+echo ". ~/.bash_aliases" >> ~/.bashrc && \
+echo ". /etc/bash_completion" >> ~/.bashrc
+```
+
+```bash
+. ~/.bashrc
+```
+
 ## git global settings
 
 ```bash
