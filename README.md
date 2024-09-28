@@ -22,7 +22,7 @@ echo ". /etc/bash_completion" >> ~/.bashrc
 . ~/.bashrc
 ```
 
-## Alpine
+### Alpine
 
 ```bash
 apk add --no-cache curl
