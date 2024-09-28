@@ -21,6 +21,10 @@ echo ". /etc/bash_completion" >> ~/.bashrc
 ## Alpine
 
 ```bash
+apk add --no-cache curl
+```
+
+```bash
 curl -sSL https://raw.githubusercontent.com/wasabina67/dotfiles-devcontainer/main/alpine/setup.sh | bash
 ```
 
