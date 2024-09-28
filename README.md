@@ -6,6 +6,10 @@ Dotfiles for Devcontainer
 ### Debian
 
 ```bash
+apt-get install -y curl
+```
+
+```bash
 curl -sSL https://raw.githubusercontent.com/wasabina67/dotfiles-devcontainer/main/setup.sh | bash
 ```
 
