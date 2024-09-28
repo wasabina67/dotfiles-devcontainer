@@ -33,8 +33,7 @@ curl -sSL https://raw.githubusercontent.com/wasabina67/dotfiles-devcontainer/mai
 ```
 
 ```bash
-echo ". ~/.bash_aliases" >> ~/.bashrc && \
-echo ". /etc/bash_completion" >> ~/.bashrc
+echo ". ~/.bash_aliases" >> ~/.bashrc
 ```
 
 ```bash
